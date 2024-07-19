@@ -1,2 +1,4 @@
+# Default supported themes: https://pages.github.com/themes/
+# To use any other Jekyll theme hosted on GitHub, type remote_theme: THEME-NAME
 name: My Site
 theme: minima
